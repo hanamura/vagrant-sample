@@ -1,5 +1,9 @@
 # vagrant-sample
 
+Simple HTTP server with simple URL.
+
+## Usage
+
 Install plugin.
 
 ```sh
